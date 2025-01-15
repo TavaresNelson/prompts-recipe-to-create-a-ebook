@@ -41,8 +41,7 @@ Copilot：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema: Pericia Judicial Contábil. Sugira 5 títulos diferentes e formais |
 | Imagem da capa | Gere uma imagem de uma escrivaninha com um laptop aberto e ligado, uma calculadora e uma balança da justiça |
-| conteúdo | Escreva um artigo de no máximo dois paragrafos para cada um dos temas: a) Introdução a perícia contábil, b) Qualificações e Habilidades do Perito Judicial Contábil
-e c) Desafios e Tendências Futuras na Perícia Contábil. |
+| conteúdo | Escreva um artigo de no máximo dois paragrafos para cada um dos temas: a) Introdução a perícia contábil, b) Qualificações e Habilidades do Perito Judicial Contábil e c) Desafios e Tendências Futuras na Perícia Contábil. |
 
 ## ✨ Features
 
