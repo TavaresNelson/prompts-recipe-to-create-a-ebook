@@ -29,7 +29,7 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Microsoft Copilot](integrado ao Windows 11)
+- [Microsoft Copilot]
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
